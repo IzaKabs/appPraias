@@ -21,7 +21,7 @@ title: 'Maragogi',
 {/* 2. Imagem Principal */}
 <Image
 // O caminho da pasta `app/` para `assets/` é apenas um nível (../)
-source={require('../assets/images?maragogi.jpg')}
+source={require('../assets/images/maragogi.jpg')}
 style={styles.headerImage}
 />
 {/* 3. Conteúdo da Página */}
@@ -31,12 +31,7 @@ style={styles.headerImage}
 <Text style={styles.subtitle}>Nordeste</Text>
 {/* Texto de Descrição */}
 <Text style={styles.description}>
-Maragogi é um município localizado no estado de Alagoas, Brasil,
-conhecido por suas praias deslumbrantes e águas cristalinas.
-Faz parte da Costa dos Corais, uma área de proteção ambiental
-que abriga lindas praias e piscinas naturais formadas por recifes de corais.
-Maragogi é frequentemente chamado de "Caribe brasileiro"
-devido à sua beleza natural e atrai visitantes de todo o Brasil e do exterior.
+Maragogi é um município localizado no estado de Alagoas, Brasil, conhecido por suas praias deslumbrantes e águas cristalinas. Faz parte da Costa dos Corais, uma área de proteção ambiental que abriga lindas praias e piscinas naturais formadas por recifes de corais. Maragogi é frequentemente chamado de "Caribe brasileiro" devido à sua beleza natural e atrai visitantes de todo o Brasil e do exterior
 </Text>
 {/* Imagem do Mapa */}
 <Image
