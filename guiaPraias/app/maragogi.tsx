@@ -28,7 +28,7 @@ style={styles.headerImage}
 <View style={styles.contentContainer}>
 {/* Título e Subtítulo */}
 <Text style={styles.title}>Maragogi</Text>
-<Text style={styles.subtitle}>Nord</Text>
+<Text style={styles.subtitle}>Nordeste</Text>
 {/* Texto de Descrição */}
 <Text style={styles.description}>
 Maragogi é um município localizado no estado de Alagoas, Brasil,
